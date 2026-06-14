@@ -14,11 +14,13 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>QJ's-Dessert</title>
 
 <style>
 body{
     margin:0;
+    padding:0;
     background:#000;
     color:white;
     font-family:Arial, sans-serif;
@@ -26,53 +28,62 @@ body{
 }
 
 .container{
-    max-width:1000px;
+    max-width:900px;
     margin:auto;
     padding:20px;
 }
 
 h1{
-    font-size:60px;
-    margin:20px 0;
+    font-size:48px;
+    margin-top:20px;
+    margin-bottom:30px;
+    white-space:nowrap;
 }
 
-p{
+.welcome{
+    font-size:28px;
+    margin-bottom:30px;
+}
+
+.description{
     font-size:24px;
     line-height:1.8;
+    margin-bottom:30px;
+}
+
+.thanks{
+    font-size:24px;
+    margin-bottom:30px;
 }
 
 img{
     width:100%;
-    height:auto;
+    max-width:900px;
     border-radius:15px;
-    margin-top:20px;
+    display:block;
+    margin:auto;
 }
 </style>
-</head>
 
+</head>
 <body>
 
 <div class="container">
 
 <h1>QJ's-Dessert</h1>
 
-<p>Welkom bij QJ's-Dessert ✨</p>
+<div class="welcome">
+Welkom bij QJ's-Dessert ✨
+</div>
 
-<p>
+<div class="description">
 Heerlijke huisgemaakte desserts,<br>
-gemaakt met liefde door Qassim & Julia ❤️
-</p>
+gemaakt met liefde door Qassim &amp; Julia ❤️
+</div>
 
-<p>
-🍪 Huisgemaakte cookies<br>
-🥞 Heerlijke crêpes<br>
-🍰 Verse tiramisu<br>
-🍋 Verfrissende limonade
-</p>
-
-<p>
+<div class="thanks">
 ❤️ Bedankt voor jullie steun! ❤️
-</p>
+</div>
 
 <img src="00ED7DC2-B854-4DFC-AEEE-F40BABF92FC0.png" alt="QJ's-Dessert">
 
