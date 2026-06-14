@@ -11,13 +11,13 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 24E75D36-9F78-4871-82AC-C3BF65AC764A.png
    
     
-  <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Q&J Douceurs</title>
+<title>QJ's-Dessert</title>
 
 <style>
 body{
@@ -29,6 +29,7 @@ body{
 
 .header{
     padding:20px;
+    text-align:center;
 }
 
 h1{
@@ -51,9 +52,10 @@ img{
 <body>
 
 <div class="header">
-<h1>QJ-s-Dessert</h1>
 
-<p>Welkom bij Q&J's-Dessert</p>
+<h1>QJ's-Dessert</h1>
+
+<p>Welkom bij QJ's-Dessert</p>
 
 <p>
 Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
@@ -66,9 +68,10 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 <p>
 ❤️ Bedankt voor jullie steun! ❤️
 </p>
+
 </div>
 
-<img src="24E75D36-9F78-4871-82AC-C3BF65AC764A.png" alt="Q&J Douceurs">
+<img src="24E75D36-9F78-4871-82AC-C3BF65AC764A.png" alt="QJ's-Dessert">
 
 </body>
 </html>
