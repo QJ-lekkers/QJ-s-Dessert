@@ -10,7 +10,7 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 
 
 <!DOCTYPE html>
-<html lang="fr">
+<html lang="nl">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -33,20 +33,19 @@ body{
 
 h1{
     font-size:60px;
-    margin-top:20px;
-    margin-bottom:30px;
+    margin:20px 0;
 }
 
 p{
-    font-size:26px;
-    line-height:1.7;
+    font-size:24px;
+    line-height:1.8;
 }
 
 img{
     width:100%;
-    display:block;
-    margin-top:30px;
+    height:auto;
     border-radius:15px;
+    margin-top:20px;
 }
 </style>
 </head>
@@ -57,17 +56,25 @@ img{
 
 <h1>QJ's-Dessert</h1>
 
-<p>Welkom bij QJ's-Dessert</p>
+<p>Welkom bij QJ's-Dessert ✨</p>
 
 <p>
-Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
+Heerlijke huisgemaakte desserts,<br>
+gemaakt met liefde door Qassim & Julia ❤️
+</p>
+
+<p>
+🍪 Huisgemaakte cookies<br>
+🥞 Heerlijke crêpes<br>
+🍰 Verse tiramisu<br>
+🍋 Verfrissende limonade
 </p>
 
 <p>
 ❤️ Bedankt voor jullie steun! ❤️
 </p>
 
-<img src="00ED7DC2-B854-4DFC-AEEE-F40BABF92FC0.png" alt="QJ's-Desserts">
+<img src="00ED7DC2-B854-4DFC-AEEE-F40BABF92FC0.png" alt="QJ's-Dessert">
 
 </div>
 
