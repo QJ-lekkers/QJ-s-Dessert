@@ -21,9 +21,9 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 <style>
 body{
     margin:0;
-    background:black;
+    background:#000;
     color:white;
-    font-family:Arial,sans-serif;
+    font-family:Arial, sans-serif;
     text-align:center;
 }
 
@@ -34,12 +34,13 @@ body{
 }
 
 h1{
-    font-size:55px;
-    margin-bottom:20px;
+    font-size:60px;
+    margin-top:20px;
+    margin-bottom:30px;
 }
 
 p{
-    font-size:24px;
+    font-size:26px;
     line-height:1.7;
 }
 
@@ -62,20 +63,6 @@ img{
 
 <p>
 Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
-</p>
-
-<p>
-📍 Levering in Nieuwerkerken 📦 Of zelf afhalen
-</p>
-
-<p>
-📱 WhatsApp : 32465725771<br>
-📱 WhatsApp : +32 495 71 70 35
-</p>
-
-<p>
-👻 Snapchat : le_qm11<br>
-👻 Snapchat : juliafarhat26
 </p>
 
 <p>
