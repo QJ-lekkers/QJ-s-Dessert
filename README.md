@@ -63,6 +63,26 @@ img{
     display:block;
     margin:auto;
 }
+
+.btn{
+    display:inline-block;
+    padding:15px 25px;
+    margin:10px;
+    border-radius:10px;
+    text-decoration:none;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.whatsapp{
+    background:#25D366;
+    color:white;
+}
+
+.snap{
+    background:#FFFC00;
+    color:black;
+}
 </style>
 
 </head>
@@ -86,6 +106,26 @@ gemaakt met liefde door Qassim &amp; Julia ❤️
 </div>
 
 <img src="00ED7DC2-B854-4DFC-AEEE-F40BABF92FC0.png" alt="QJ's-Dessert">
+
+<br><br>
+
+<a class="btn whatsapp" href="https://wa.me/32465725771">
+📱 WhatsApp 1
+</a>
+
+<a class="btn whatsapp" href="https://wa.me/32495717035">
+📱 WhatsApp 2
+</a>
+
+<br>
+
+<a class="btn snap" href="https://www.snapchat.com/add/le_qm11">
+👻 Snapchat le_qm11
+</a>
+
+<a class="btn snap" href="https://www.snapchat.com/add/juliafarhat26">
+👻 Snapchat juliafarhat26
+</a>
 
 </div>
 
