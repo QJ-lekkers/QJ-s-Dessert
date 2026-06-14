@@ -11,24 +11,64 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 24E75D36-9F78-4871-82AC-C3BF65AC764A.png
    
     
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Q & J Douceurs</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            height: 100%;
-        }
-        img {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
-    </style>
+  <!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Q&J Douceurs</title>
+
+<style>
+body{
+    margin:0;
+    background:black;
+    color:white;
+    font-family:Arial, sans-serif;
+}
+
+.header{
+    padding:20px;
+}
+
+h1{
+    margin:0;
+    font-size:48px;
+}
+
+p{
+    font-size:22px;
+    line-height:1.6;
+}
+
+img{
+    width:100%;
+    display:block;
+}
+</style>
 </head>
+
 <body>
-    <img src="24E75D36-9F78-4871.jpg" alt="QJ Douceurs">
-    <!-- Tu pourras ajouter plus d'images ici plus tard si besoin -->
+
+<div class="header">
+<h1>QJ-s-Dessert</h1>
+
+<p>Welkom bij Q&J's-Dessert</p>
+
+<p>
+Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
+</p>
+
+<p>
+📍 Levering in Nieuwerkerken 📦 Of zelf afhalen
+</p>
+
+<p>
+❤️ Bedankt voor jullie steun! ❤️
+</p>
+</div>
+
+<img src="24E75D36-9F78-4871-82AC-C3BF65AC764A.png" alt="Q&J Douceurs">
+
 </body>
 </html>
