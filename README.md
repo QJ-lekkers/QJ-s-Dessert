@@ -1,5 +1,5 @@
 # QJ-s-Dessert
-Welkom bij Q&J’s-Dessert
+Welkom bij QJ's-Dessert
 
 Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 
