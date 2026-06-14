@@ -8,7 +8,9 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 
 ❤️ Bedankt voor jullie steun! ❤️
 
-
+24E75D36-9F78-4871-82AC-C3BF65AC764A.png
+   
+    
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Q & J Douceurs</title>
