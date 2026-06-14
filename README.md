@@ -28,7 +28,7 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
     </style>
 </head>
 <body>
-    <img src="24E75D36-9F78-4871.jpg" alt="QJ Douceurs">
+    <img src="24E75D36-9F78-4871-82AC-C3BF65AC764A.png" alt="QJ Douceurs">
     <!-- Tu pourras ajouter plus d'images ici plus tard si besoin -->
 </body>
 </html>
