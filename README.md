@@ -8,8 +8,7 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 
 ❤️ Bedankt voor jullie steun! ❤️
 
-Qassim & Julia
-<!DOCTYPE html>
+
 <html lang="nl">
 <head>
     <meta charset="UTF-8">
