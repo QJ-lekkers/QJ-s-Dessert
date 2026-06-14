@@ -29,7 +29,6 @@ body{
 
 .header{
     padding:20px;
-    text-align:center;
 }
 
 h1{
