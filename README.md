@@ -1,4 +1,4 @@
-# QJ-s-Dessert
+# QJ's-Dessert
 Welkom bij QJ's-Dessert
 
 Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
@@ -14,7 +14,7 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Q&J's-Dessert</title>
+<title>QJ's-Dessert</title>
 
 <style>
 body{
@@ -55,9 +55,9 @@ img{
 
 <div class="container">
 
-<h1>Q&J's-Dessert</h1>
+<h1>QJ's-Dessert</h1>
 
-<p>Welkom bij Q&J's-Dessert</p>
+<p>Welkom bij QJ's-Dessert</p>
 
 <p>
 Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
@@ -67,7 +67,7 @@ Heerlijke huisgemaakte desserts, gemaakt met liefde door Qassim & Julia ❤️
 ❤️ Bedankt voor jullie steun! ❤️
 </p>
 
-<img src="00ED7DC2-B854-4DFC-AEEE-F40BABF92FC0.png" alt="Q&J Desserts">
+<img src="00ED7DC2-B854-4DFC-AEEE-F40BABF92FC0.png" alt="QJ's-Desserts">
 
 </div>
 
